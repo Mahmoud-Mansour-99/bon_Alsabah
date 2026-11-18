@@ -1,0 +1,6 @@
+{
+  "name": "بن الصباح — قهوة مختصة طازجة",
+  "description": "متجر بن الصباح للقهوة المختصة والطازجة المحمصة بعناية — توصيل داخل القاهرة والجيزة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
